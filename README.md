@@ -1,7 +1,7 @@
 # theFile
 Your first task: create a new repository, create a README.nd file and upload another file.
 
-You can find a playlist of videos about git by [link](https://www.youtube.com/watch?v=KnINsmXT9_c)
+You can find a playlist of videos about git By [link](https://www.youtube.com/watch?v=KnINsmXT9_c)
 
 ## Front-end Developer stack:
 
