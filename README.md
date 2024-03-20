@@ -1,5 +1,5 @@
 # theFile
-Your first task: create a new repository, create a README.nd file and upload another file.
+Your first task: create a new repos12itory, create a README.nd file and upload another file.
 
 You can find a playlist of videos about git By [link](https://www.youtube.com/watch?v=KnINsmXT9_c)
 
@@ -9,5 +9,5 @@ You can find a playlist of videos about git By [link](https://www.youtube.com/wa
 ﻿﻿* CSS
 ﻿﻿* JavaScript
 5. MongoDB (Query):
-db.users.find({ age: { $gt: 13} });
+db.users.find({ age: { $gt: 12} });
 
