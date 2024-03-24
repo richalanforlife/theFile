@@ -1,5 +1,5 @@
 # theFile
-Your first task: create a new repos12itory, create a README.nd file and upload another file.
+Your first task: create a new repos12itory, create a README.nd file and upload another File.
 
 You can find a playlist of videos about git By [link](https://www.youtube.com/watch?v=KnINsmXT9_c)
 
