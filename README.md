@@ -3,7 +3,7 @@ Your first task: create a new repitory, create a README.nd file and upload anoth
 
 You can find a playlist of videos about git By [link](https://www.youtube.com/watch?v=KnINsmXT9_c)
 
-## Front-end Developer stack:
+## Front_end Developer stack:
 
 * HTML
 ﻿﻿* CSS
