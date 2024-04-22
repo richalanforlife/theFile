@@ -9,5 +9,5 @@ You can find a playlist of videos about git By [link](https://www.youtube.com/wa
 ﻿﻿* CSS
 ﻿﻿* JavaScript
 5. MongoDB (Query):
-db.users.find({ age: { $gt: 11} });
+db.users.find({ age: { $gt: 12} });
 
