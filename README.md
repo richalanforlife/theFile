@@ -9,5 +9,5 @@ static void main(18413)
 ﻿﻿* CSS
 ﻿﻿* JavaScript
 5. MongoDB (Query):
-db.users.find({ age: { $gt:+19} });
+db.users.find({ age: { $gt:+22} });
 
